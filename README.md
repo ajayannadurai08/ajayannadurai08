@@ -2,196 +2,292 @@
 
 ### 🧪 Software Tester | Manual & Automation Testing
 
-I'm a Software Tester focused on **Manual Testing, Selenium Automation, API Testing and SQL**, with hands-on experience building practical testing projects.
+I'm a Software Tester with hands-on knowledge in Manual Testing and Automation Testing, focused on validating software quality, identifying defects, and building reliable test automation solutions.
 
----
+Currently, my primary focus is:
 
-## 🌐 My QA Portfolio
-
-### [🚀 Visit My Testing Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)
-
-
-Explore my testing projects, skills, experience, resume and other QA work in one place.
-
----
-
-## 🧑‍💻 About Me
-
-* 🧪 Focused on Software Testing & Quality Assurance
-* 🔍 Manual & Automation Testing
+* 🧪 Manual Testing & Test Case Design
 * 🤖 Selenium WebDriver with Java
-* 🔌 API Testing with Postman
-* 🗄️ SQL / MySQL for data validation
-* 🔄 Familiar with SDLC, STLC and Agile
-* 🐞 Test case design, execution and defect reporting
+* 🧩 TestNG, JUnit & Cucumber BDD
+* 🔗 API Testing with Postman
+* 🗄️ SQL & MySQL
+* 🛠️ Automation Framework Development
+* 🎭 Playwright — Currently Learning
 
 ---
 
-## 🧪 Testing Skills
+## 🌐 QA Portfolio
 
-**Manual Testing**
-Functional · Regression · Smoke · Sanity · Exploratory · UAT · Test Cases · Defect Reporting
+🔗 **[View My QA Testing Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)**
 
-**Automation Testing**
-Selenium WebDriver · Java · TestNG · JUnit · Cucumber · POM · PageFactory · Data-Driven Testing
-
-**API & Database**
-Postman · REST API · JSON · SQL · MySQL · Joins
-
-**Tools**
-Git · GitHub · Maven · Jira · Eclipse · Excel
+A collection of my testing projects, test cases, automation frameworks, API testing, SQL practice, and QA learning journey.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I'm Working On
 
-`Java` `SQL` `Selenium` `TestNG` `JUnit` `Cucumber`
-`Postman` `MySQL` `Git` `GitHub` `Maven` `Jira`
-
----
-
-## 🎯 Testing Focus
-
-```text
-Requirement Understanding
-        ↓
-Test Scenario & Test Case Design
-        ↓
-Test Execution
-        ↓
-Defect Identification
-        ↓
-Retesting & Regression
-        ↓
-Final Validation
-```
-
-My focus is on finding defects early, validating application functionality and improving software quality through structured testing.
+* Building real-world Manual Testing projects with detailed test cases and defect reports
+* Developing Selenium automation frameworks using Java, TestNG and Page Object Model
+* Practicing API testing using Postman and REST APIs
+* Strengthening SQL and database validation skills
+* Improving automation framework design and reporting
+* Learning Playwright for modern web automation
+* Continuously improving my QA interview and problem-solving skills
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Testing Tech Stack
 
-### 🛒 E-Commerce Manual Testing
+### 🧪 Manual Testing
 
-* Designed and executed ~180 test cases
-* Functional, regression and validation testing
-* Defect identification and documentation
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
+* Exploratory Testing
+* UAT
+* Test Scenario & Test Case Design
+* Defect Reporting
+* Severity & Priority
+* SDLC & STLC
+* Agile Methodology
 
-### 🤖 E-Commerce Selenium Automation
+### 🤖 Automation Testing
 
-* Selenium WebDriver + Java + TestNG
-* POM / PageFactory
+* Selenium WebDriver
+* Java
+* TestNG
+* JUnit
+* Cucumber BDD
+* Page Object Model
+* PageFactory
 * Data-Driven Testing
-* Automated key e-commerce workflows
+* Maven
 
-### 🥒 SCENT-Arts Cucumber Automation
+### 🔗 API & Database Testing
 
-* Selenium + Java + Cucumber BDD
-* Feature files and step definitions
-* Functional automation scenarios
-
-### 🔌 API Testing with Postman
-
-* REST API testing
+* Postman
+* REST APIs
+* JSON
 * GET / POST / PUT / DELETE
-* Status code and JSON response validation
-
-### 🗄️ SQL Testing Practice
-
-* SQL queries and data validation
-* Aggregate functions
+* HTTP Status Codes
+* SQL
+* MySQL
+* Joins
 * Subqueries
-* INNER JOIN
-* Database testing
+* Data Validation
 
-🔗 **More projects will be added as I continue building my QA portfolio.**
+### 🧰 Tools
+
+* Eclipse
+* Git
+* GitHub
+* Jira
+* Maven
+* Excel
+
+---
+
+## 🔍 My Testing Approach
+
+I follow a structured approach to understand requirements, validate functionality and ensure software quality.
+
+**Requirement Understanding**
+↓
+**Test Scenario Design**
+↓
+**Test Case Creation**
+↓
+**Test Execution**
+↓
+**Defect Identification & Reporting**
+↓
+**Retesting & Regression**
+↓
+**Final Validation**
+
+---
+
+## 🚀 Featured QA Projects
+
+### 🔹 E-Commerce Manual Testing
+
+A detailed manual testing project focused on validating an e-commerce application.
+
+**Key Areas:**
+
+* 🧪 Functional Testing
+* 📝 Test Case Design & Execution
+* 🔄 Regression Testing
+* 🐛 Defect Identification & Reporting
+* 🔍 Exploratory Testing
+* 📊 Test Documentation
+
+**Coverage:** ~180 Test Cases
+
+---
+
+### 🔹 E-Commerce Selenium Automation
+
+Web automation project developed using Selenium WebDriver and Java.
+
+**Key Areas:**
+
+* 🤖 Selenium WebDriver
+* ☕ Core Java
+* 🧪 TestNG
+* 🏗️ Page Object Model
+* 📄 PageFactory
+* 📊 Data-Driven Testing
+* 📸 Screenshot Capture
+* 📋 Test Reporting
+* 🛒 E-Commerce Workflow Automation
+
+---
+
+### 🔹 SCENT-Arts Cucumber Automation
+
+BDD-based automation project developed using Selenium, Java and Cucumber.
+
+**Key Areas:**
+
+* 🥒 Cucumber BDD
+* 🤖 Selenium WebDriver
+* ☕ Java
+* 📄 Feature Files
+* 🧪 Scenario Execution
+* 🔍 Functional Validation
+
+---
+
+### 🔹 API Testing with Postman
+
+REST API testing project focused on validating API behaviour and responses.
+
+**Key Areas:**
+
+* 🔗 REST APIs
+* GET / POST / PUT / DELETE
+* 📦 JSON Request & Response
+* ✅ Response Validation
+* 🔢 HTTP Status Codes
+* 🔐 Authorization & Authentication Basics
+
+---
+
+### 🔹 SQL Testing Practice
+
+Database testing and SQL practice focused on data validation and relational data handling.
+
+**Key Areas:**
+
+* 🗄️ MySQL
+* 🔗 INNER JOIN
+* 🔍 Subqueries
+* 📊 Aggregate Functions
+* 🧮 Data Validation
+* 📋 Database Queries
+
+---
+
+> 📌 More QA projects will be added as I continue building and improving my testing portfolio.
 
 ---
 
 ## 💼 Professional Experience
 
-### TNQ Technologies — Trainee Production Editor
+### 🏢 TNQ Technologies — Trainee Production Editor
 
 **May 2025 – 25 May 2026 | Chennai**
 
-* Worked in a structured publishing production environment
-* Performed quality checks and content validation
-* Identified and resolved production issues
-* Worked with editors/authors through professional communication
-* Used JIRA as part of the workflow
-* Followed defined quality and production processes
+* Worked in a structured publishing production workflow with defined quality processes
+* Performed quality checks and content validation before final delivery
+* Identified issues and coordinated resolutions with relevant teams
+* Worked with editors and authors to clarify and resolve content-related issues
+* Used JIRA for issue tracking and workflow management
+* Followed process guidelines, quality standards and delivery timelines
 
 ---
 
 ## 🎓 Education
 
-**M.Sc. Mathematics** — Bharathidasan University | 2023
-**B.Sc. Mathematics** — 2021
+### 🎓 M.Sc Mathematics
+
+**Bharathidasan University | 2023**
+
+### 🎓 B.Sc Mathematics
+
+**2021**
 
 ---
 
-## 📜 Training & Internship
+## 📚 Training & Internship
 
-### Software Testing Internship
+### 🧪 Software Testing Internship
 
 **Inmakes Infotech Pvt. Ltd. | 2024**
 
-Manual & Automation Testing with:
+Hands-on training and practice in:
 
-* Selenium
+* Manual Testing
+* Automation Testing
+* Selenium WebDriver
 * Java
-* TestNG
 * JUnit
+* TestNG
 * Cucumber
 * Data-Driven Testing
+* Test Case Design & Execution
+* Defect Identification
 
-### Java Training
+### ☕ Java Training
 
 **CADPOINT**
 
----
-
-## 🚀 Currently Learning
-
-* Advanced Selenium Automation
-* API Testing with Postman
-* SQL for Software Testing
-* Automation Framework Development
-* Playwright
+Core Java concepts and programming fundamentals.
 
 ---
 
-## 📊 Testing Knowledge
+## 📖 Currently Learning
 
-| Area           | Skills                                     |
-| -------------- | ------------------------------------------ |
-| Manual Testing | Functional, Regression, Smoke, Sanity, UAT |
-| Automation     | Selenium WebDriver                         |
-| Programming    | Java                                       |
-| Frameworks     | TestNG, JUnit, Cucumber                    |
-| Database       | SQL / MySQL                                |
-| API            | Postman                                    |
-| Methodology    | SDLC / STLC / Agile                        |
-| Tools          | Git, GitHub, Maven, Jira                   |
+* 🤖 Advanced Selenium Automation
+* 🔗 API Testing with Postman
+* 🗄️ SQL for Software Testing
+* 🏗️ Automation Framework Development
+* 🎭 Playwright
+* 🧪 Advanced Test Automation Practices
 
 ---
 
-## 💼 Connect With Me
+## 🧠 Testing Knowledge
 
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/ajayannadurai08/)
-**Portfolio:** [Visit my QA Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)
-**GitHub:** [Explore my Projects](https://github.com/ajayannadurai08)
+| Area            | Knowledge                                               |
+| --------------- | ------------------------------------------------------- |
+| Manual Testing  | Functional, Regression, Smoke, Sanity, Exploratory, UAT |
+| Test Management | Test Cases, Test Scenarios, Defect Reporting            |
+| Automation      | Selenium WebDriver, TestNG, JUnit, Cucumber             |
+| Framework       | POM, PageFactory, Data-Driven Testing                   |
+| Programming     | Java / Core Java                                        |
+| API Testing     | Postman, REST API, JSON                                 |
+| Database        | SQL, MySQL, Joins, Subqueries                           |
+| Methodology     | SDLC, STLC, Agile                                       |
+| Tools           | Git, GitHub, Jira, Maven, Eclipse, Excel                |
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Activity
 
-📧 **Email:** ajayannadurai261@gmail.com
-📍 **Chennai, Tamil Nadu, India**
+I use GitHub to document my learning journey, testing projects, automation frameworks and continuous improvement in Software Testing.
 
 ---
-⭐ Thanks for visiting my profile!
 
-**Let's build better software through better testing.** 
+## 🤝 Connect With Me
 
+* 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ajayannadurai08/)
+* 🌐 **QA Portfolio:** [View My Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)
+* 💻 **GitHub:** [Ajay Annadurai](https://github.com/ajayannadurai08)
+* 📧 **Email:** ajayannadurai261@gmail.com
+
+---
+
+# 💭 Keep Testing. Keep Learning. Keep Improving.
