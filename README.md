@@ -8,7 +8,8 @@ I'm a Software Tester focused on **Manual Testing, Selenium Automation, API Test
 
 ## 🌐 My QA Portfolio
 
-### [🚀 Visit My Testing Portfolio](YOUR_PORTFOLIO_LINK)
+### [🚀 Visit My Testing Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)
+
 
 Explore my testing projects, skills, experience, resume and other QA work in one place.
 
@@ -178,9 +179,9 @@ Manual & Automation Testing with:
 
 ## 💼 Connect With Me
 
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
-**Portfolio:** [Visit my QA Portfolio](YOUR_PORTFOLIO_LINK)
-**GitHub:** [Explore my Projects](YOUR_GITHUB_PROFILE_LINK)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/ajayannadurai08/)
+**Portfolio:** [Visit my QA Portfolio](https://ajayannadurai08.github.io/Ajay-Portfolio/)
+**GitHub:** [Explore my Projects](https://github.com/ajayannadurai08)
 
 ---
 
